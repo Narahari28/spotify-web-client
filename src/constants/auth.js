@@ -1,0 +1,2 @@
+export const CLIENT_ID = '0a502c954f5d462a8838f0feeca608a7'; // Use the client ID you receive when you register your app with Spotify
+export const REDIRECT_URI = `${window.location.protocol}//${window.location.host}/callback`; // Also specified during Spotify registration

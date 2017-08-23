@@ -1,0 +1,8 @@
+export const SET_USER = 'SET_USER';
+export const SET_PLAYLISTS = 'SET_PLAYLISTS';
+export const SET_POPULAR = 'SET_POPULAR';
+export const SET_USER_TOP_TRACKS = 'SET_USER_TOP_TRACKS';
+export const SET_USER_RECENT = 'SET_USER_RECENT';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_PLAYLIST_TRACKS = 'SET_PLAYLIST_TRACKS';
+export const SET_PLAYLIST_ARTISTS = 'SET_PLAYLIST_ARTISTS';
